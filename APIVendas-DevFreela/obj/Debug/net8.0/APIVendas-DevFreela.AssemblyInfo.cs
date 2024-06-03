@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIVendas-DevFreela")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a11e6a5f2ac5677d3262631bfa92c1e98d82bc84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e31d388014a410536213b047b7d62c2ac8446765")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIVendas-DevFreela")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIVendas-DevFreela")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
