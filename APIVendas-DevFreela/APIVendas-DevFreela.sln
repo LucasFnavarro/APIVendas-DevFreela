@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIVendas-DevFreela", "APIVendas-DevFreela.csproj", "{F11F6668-8F73-462B-A1C5-B8025CF9C174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIVendas-DevFreela", "APIVendas-DevFreela.csproj", "{F11F6668-8F73-462B-A1C5-B8025CF9C174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevFreela.Classes", "..\DevFreela.Classes\DevFreela.Classes.csproj", "{4834B104-9736-463B-B1D4-6955D8E0CF4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F11F6668-8F73-462B-A1C5-B8025CF9C174}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F11F6668-8F73-462B-A1C5-B8025CF9C174}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F11F6668-8F73-462B-A1C5-B8025CF9C174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4834B104-9736-463B-B1D4-6955D8E0CF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4834B104-9736-463B-B1D4-6955D8E0CF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4834B104-9736-463B-B1D4-6955D8E0CF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4834B104-9736-463B-B1D4-6955D8E0CF4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
