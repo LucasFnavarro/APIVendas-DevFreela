@@ -1,1 +1,1 @@
-# APIVendas-DevFreela
+# Plataforma DevFreelancer em .NET Core.
